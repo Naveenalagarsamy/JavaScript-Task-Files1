@@ -1,0 +1,1 @@
+let userId3=fetch('https://jsonplaceholder.typicode.com/users').then(r=>r.json()).then(r=>console.log(r[2]));

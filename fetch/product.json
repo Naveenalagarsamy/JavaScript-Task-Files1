@@ -1,0 +1,67 @@
+{
+  "shoes":[
+    
+        {
+            "id":1,
+            "name":"NIKE Shoe",
+            "picture":"https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmlrZSUyMHNob2V8ZW58MHx8MHx8&w=1000&q=80",
+            "price":4390 
+        
+        },
+        {
+            "id":2,
+            "name":"ADIDAS Shoe",
+            "picture":"https://image.shutterstock.com/image-photo/varna-bulgaria-august-13-2019-260nw-1496561408.jpg",
+            "price":2999    
+        },
+        {
+            "id":3,
+            "name":"SPARX Shoe",
+            "picture":"https://rukminim1.flixcart.com/image/300/300/xif0q/shoe/k/p/u/-original-imaggcb6axmytykk.jpeg?q=90",
+            "price":990 
+        }
+    ],
+    "wristwatches":[
+        {
+            "id":1,
+            "name":"MATRIX wrist watch",
+            "picture":"https://m.media-amazon.com/images/I/71vCooHhZXL._UL1500_.jpg",
+            "price":1500
+        },
+        {
+            "id":2,
+            "name":"TITAN wrist watch",
+            "picture":"https://staticimg.titan.co.in/Titan/Catalog/1805QM04_1.jpg?impolicy=pqmed&imwidth=480",
+            "price":750
+        },
+        {
+            "id":3,
+            "name":"G-SHOCK wrist watch",
+            "picture":"https://gshock.casio.com/content/casio/locales/us/en/brands/gshock/_jcr_content/root/responsivegrid/container_677477071/container_copy_copy__1348038952/content_panel/image.casiocoreimg.jpeg/1666796124961/black-digital-watches-tile-sp.jpeg",
+            "price":877
+        }
+    ],
+    "headphones":[    
+        {
+        
+            "id":1,
+            "name":"BOAT Boom",
+            "picture":"https://images.fonearena.com/blog/wp-content/uploads/2022/01/Bira-91-X-boAt-Rockerz-450-1024x804.jpg",
+            "price":700
+        },
+        {
+            "id":2,
+            "name":"SAMSUNG headset",
+            "picture":"https://n2.sdlcdn.com/imgs/a/u/i/Samsung-Blue-Earphone-SDL943528186-1-c6e0b.jpg",
+            "price":1200
+        },
+        {
+            "id":3,
+            "name":"JBL Boom",
+            "picture":"https://rukminim1.flixcart.com/image/612/612/kmz7qfk0/headphone/1/v/y/jblt660ncblu-jbl-original-imagfr8ag8s7pycz.jpeg?q=70",
+            "price":3000
+        }
+
+
+    ]
+}
